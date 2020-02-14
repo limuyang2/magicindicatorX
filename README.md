@@ -1,0 +1,2 @@
+# magicindicatorX
+magicindicator AndroidX
